@@ -19,3 +19,6 @@ In the project directory, you can run:
 
 ### `npm install react-icons`
 
+# Project Demo 
+![Project Demo](demo/reactStar_Rating.gif)
+
